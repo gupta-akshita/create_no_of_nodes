@@ -1,0 +1,7 @@
+name: Details
+description: Create the requested no. of nodes enter by user.
+package: Details
+type: module
+version: 1.0
+core: '8.x'
+configure: details.admin_settings

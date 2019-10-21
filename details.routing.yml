@@ -1,0 +1,7 @@
+deatils.form:
+  path: '/details'
+  defaults:
+    _form: '\Drupal\details\Form\DETAILSForm'
+    _title: 'Details'
+  requirements:
+    _permission: 'access content'  
