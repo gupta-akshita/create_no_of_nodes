@@ -10,7 +10,7 @@
 INTRODUCTION
 ----------------------
 
-A form with following 4 fields : 
+<strong>A form with following 4 fields : </strong>
   1. Number of Nodes (Integer)
   2. Content Type (Dropdown of all content type in website)
   3. Title
@@ -26,7 +26,7 @@ REQUIRMENTS
 INSTALLATION
 ----------------------
 
-1. Install as you would  normally install a Druapl contributed module. <br />
+1. Install as you would  normally install a Druapal contributed module. <br />
 * Visit: https://www.drupal.org/docs/8/extending-drupal-8/installing-drupal-8-modules
 for further informtaion.
 
