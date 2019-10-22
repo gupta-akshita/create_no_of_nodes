@@ -1,9 +1,9 @@
 #A form which create the requested number of nodes in the system.
 
   *Introduction <br />
-  *Requirements
-  *Installation
-  *Configuration
+  *Requirements <br />
+  *Installation <br />
+  *Configuration <br />
   *Resources Used
   
 
@@ -26,7 +26,7 @@ REQUIRMENTS
 INSTALLATION
 ----------------------
 
-1. Install as you would  normally install a Druapl contributed module. 
+1. Install as you would  normally install a Druapl contributed module. <br />
 * Visit: https://www.drupal.org/docs/8/extending-drupal-8/installing-drupal-8-modules
 for further informtaion.
 
@@ -50,9 +50,9 @@ CONFIGURATION
 RESOURCES USED
 ----------------------
 
-https://api.drupal.org/api/drupal/core%21lib%21Drupal%21Core%21Form%21form.api.php/function/hook_form_FORM_ID_alter/8.2.x
-https://www.drupal.org/node/2407153
-https://api.drupal.org/api/drupal/core!includes!bootstrap.inc/function/drupal_set_message/8.2.x
-https://www.drupal.org/docs/8/api/routing-system/structure-of-routes
-https://www.drupal.org/docs/8/api/routing-system/using-parameters-in-routes
-https://api.drupal.org/api/drupal/vendor%21symfony%21http-foundation%21JsonResponse.php/class/JsonResponse/8.2.x
+https://api.drupal.org/api/drupal/core%21lib%21Drupal%21Core%21Form%21form.api.php/function/hook_form_FORM_ID_alter/8.2.x <br />
+https://www.drupal.org/node/2407153 <br />
+https://api.drupal.org/api/drupal/core!includes!bootstrap.inc/function/drupal_set_message/8.2.x <br />
+https://www.drupal.org/docs/8/api/routing-system/structure-of-routes <br />
+https://www.drupal.org/docs/8/api/routing-system/using-parameters-in-routes <br />
+https://api.drupal.org/api/drupal/vendor%21symfony%21http-foundation%21JsonResponse.php/class/JsonResponse/8.2.x <br />
