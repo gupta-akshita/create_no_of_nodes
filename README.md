@@ -1,4 +1,4 @@
-#A form which create the requested number of nodes in the system.
+#<b>A form which create the requested number of nodes in the system.</b>
 
   *Introduction <br />
   *Requirements <br />
@@ -10,7 +10,7 @@
 INTRODUCTION
 ----------------------
 
-<strong>A form with following 4 fields : </strong>
+A form with following 4 fields : 
   1. Number of Nodes (Integer)
   2. Content Type (Dropdown of all content type in website)
   3. Title
