@@ -1,6 +1,6 @@
 #A form which create the requested number of nodes in the system.
 
-  *Introduction
+  *Introduction <br />
   *Requirements
   *Installation
   *Configuration
